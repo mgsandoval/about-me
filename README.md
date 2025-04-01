@@ -1,4 +1,4 @@
-- I’m @mgsandoval
+# Hi! I'm @mgsandoval
 - I’m interested in web development
 - Always looking to connect with more and more developers!
 - You can contact me in gabriel.sandoval6111@gmail.com 
