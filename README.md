@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mgsandoval
-- 👀 I’m interested in the web development
-- 🌱 I’m currently learning web developing, as a junior dev
-- 💞️ I’m looking to learn more about making websites with the purpose of collaborate with other developers
-- 📫 You can contact me in gabrielsandoval06@hotmail.com
+- I’m @mgsandoval
+- I’m interested in web development
+- Always looking to connect with more and more developers!
+- You can contact me in gabriel.sandoval6111@gmail.com 
 
 <!---
 mgsandoval/mgsandoval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
