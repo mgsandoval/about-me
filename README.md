@@ -1,7 +1,15 @@
-# Hi! I'm @mgsandoval
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdzNmptd2cxbG5yZXo1OHRoNXI5NGltYTNhdG1rejN4em44MjVnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="200">
-</div>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi%20there!!%20👋&fontSize=90)
 
-- I’m interested in web development
-- Always looking to connect with more and more developers!
+**I'm mgsandoval.** I'm a web developer in his way to learn more and more. 🔥
+
+Improving my skills everyday. 🚀
+
+Knowledge is power!
+
+## Tools I have used and learned
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,dotnet,git,github)](https://skillicons.dev)
+
+<!-- <details>
+  <summary>GitHub Stats!</summary>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mgsandoval&theme=default&show_icons=true&hide_border=true&count_private=true)
+</details> -->
