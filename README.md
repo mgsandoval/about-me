@@ -7,7 +7,7 @@ Improving my skills everyday. 🚀
 Knowledge is power!
 
 ## Tools I have used and learned
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,dotnet,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,cs,dotnet,git,github)](https://skillicons.dev)
 
 <!-- <details>
   <summary>GitHub Stats!</summary>
