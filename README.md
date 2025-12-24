@@ -5,4 +5,4 @@
 Improving my skills everyday. 🚀
 
 ## Tools I have used
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,bootstrap,tailwind,dotnet,java,git,github,mysql,npm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,dotnet,git,github,mysql,postman)](https://skillicons.dev)
